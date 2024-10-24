@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**leila68/leila68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi, I'm Leila!
 
-Here are some ideas to get you started:
+I am a recent graduate in **Computer Engineering** with a passion for **software development**, **machine learning**, and **data engineering**. I love working on innovative projects, building solutions, and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Skills:
+- **Programming Languages**: Python, C++, SQL
+- **Machine Learning**: PyTorch, TensorFlow
+- **Cloud Platforms**: AWS, Google Cloud
+- **Databases**: SQLite, MySQL
+- **Version Control**: Git, GitHub
+
+### 🛠️ Tools I Use:
+- Visual Studio Code
+- Jupyter Notebook
+- Docker
+- Tableau
+
+### 📫 How to Reach Me:
+- **Email**: leila.cheshmi@gmail.com
+- **LinkedIn**: [Your LinkedIn Profile](https://[www.linkedin.com](https://www.linkedin.com/in/leila-cheshmi-693070105/))
