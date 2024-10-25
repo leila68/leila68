@@ -17,4 +17,4 @@ I am a recent graduate in **Computer Engineering** with a passion for **software
 
 ### 📫 How to Reach Me:
 - **Email**: leila.cheshmi@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com)
