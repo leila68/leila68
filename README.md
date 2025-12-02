@@ -20,4 +20,4 @@ I am a recent graduate in **Computer Engineering** with a passion for **software
 <!-- <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="100"/> -->
 ### 📫 How to Reach Me:
 - **Email**: leila.cheshmi@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/leila-cheshmi-693070105/
+- **LinkedIn**: https://www.linkedin.com/in/leila-cheshmi/
