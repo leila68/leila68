@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Leila Cheshmi
 
-📍 Toronto, ON, Canada  
+📍 Greater Toronto Area, Canada
+ 
 💻 Software Engineer | Full-Stack Developer | AI Software Engineer
 
 I am a Software Engineer with experience building **full-stack applications, backend services, and AI-powered systems**. I enjoy designing scalable APIs, building modern web applications, and integrating AI capabilities into real-world products.
